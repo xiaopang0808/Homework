@@ -1,5 +1,4 @@
 #include<iostream>
-#include <Windows.h> 
 #define MAXV 100
 #define INF 32767
 using namespace std;
